@@ -2,6 +2,7 @@
 
 namespace App\Http\Controllers;
 
+use DB;
 use App\Models\Mahasiswa;
 use Illuminate\Http\Request;
 
