@@ -44,8 +44,8 @@
                         <input type="Alamat" name="Alamat" class="form-control" id="Alamat" ariadescribedby="Alamat" >
                     </div>
                     <div class="form-group">
-                        <label for="Tanggal lahir">Tanggal lahir</label>
-                        <input type="Tanggal lahir" name="Tanggal lahir" class="form-control" id="Tanggal lahir" ariadescribedby="Tanggal lahir" >
+                        <label for="Tanggal_lahir">Tanggal lahir</label>
+                        <input type="date" name="Tanggal_lahir" class="form-control" id="Tanggal_lahir" ariadescribedby="Tanggal_lahir" >
                     </div>
                     <button type="submit" class="btn btn-primary">Submit</button>
                 </form>

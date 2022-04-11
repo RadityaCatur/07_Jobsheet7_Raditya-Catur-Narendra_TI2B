@@ -24,6 +24,6 @@ class Mahasiswa extends Model //Definisi Model
         'Jurusan',
         'Email',
         'Alamat',
-        'Tanggal lahir',
+        'Tanggal_lahir',
     ];
 };
